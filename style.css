@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    background-image: url(https://wallpapercave.com/wp/wp5231673.jpg);
+}
+
+.countdoun
+{
+    display: flex;
+}
+
+.time
+{
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    margin: 52px;
+    margin-top: 5%;
+    margin-left: 16%;
+    background-color: rgb(190, 240, 240);
+}
+div.ti
+{
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    margin-left: 50%;
+    font-size: 300%;
+}
